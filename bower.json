@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "MikeMeissner <tennisapb@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.4",
+    "jquery-mobile-bower": "^1.4.5"
+  }
+}
